@@ -40,8 +40,8 @@ def run_script():
 
 def send_email(output_file_name, recipient_email):
     # Email configuration
-    sender_email = "smathur1_be21@thapar.edu"
-    sender_password = "mathurSJ1014<3"
+    sender_email = "senderemail@email.com"
+    sender_password = "senderpassword"
 
     # Create the email
     msg = MIMEMultipart()
